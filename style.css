@@ -31,6 +31,12 @@ h1 {
     margin-top: 2rem; /* Add margin to center the countdown elements */
 }
 
+.countdown-container h1 {
+    font-size: 4rem;
+    font-weight: bolder;
+    margin: 0;
+    padding: 0;
+}
 .big-text {
     font-weight: bold;
     font-size: 4rem; /* Adjust font size for smaller screens */
